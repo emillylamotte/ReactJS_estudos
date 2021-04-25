@@ -2,7 +2,7 @@
 
 A NextLevelWeek #5 foi uma imersão de 5 dias realizada pela plataforma RocketSeat, entre os dias 19 e 23/04/2021 no site da plataforma. O objetivo foi construir uma aplicação web do zero, utilizando ReactJS.
 
-Todo passo a passo para construção da aplicação foi disponibilizado pela RocketSeat.
+Todo passo a passo, imagens e API utilizadas para construção da aplicação foram disponibilizados pela RocketSeat.
 
 # Projeto Podcastr
 
